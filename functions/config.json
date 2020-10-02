@@ -1,0 +1,13 @@
+{
+  "redis": {
+    "host": "redis-10628.c233.eu-west-1-1.ec2.cloud.redislabs.com:10628",
+    "password": "k3NTiGRvBxfEnYgH10htBPKjkypdKqp4"
+  },
+  "keys": {
+    "all": "coronastatistics:all",
+    "countries": "coronastatistics:countries",
+    "timeline": "coronastatistics:timeline",
+    "timelineglobal": "coronastatistics:timelineglobal"
+  },
+  "interval": 6000000
+}
